@@ -1,0 +1,4 @@
+Flask==2.3.3
+pandas==1.5.3
+openai==0.28.1
+Werkzeug==2.3.7
