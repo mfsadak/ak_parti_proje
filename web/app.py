@@ -16,8 +16,7 @@ import shutil
 from pathlib import Path
 import sys
 
-# Üst klasörden sistem.py'yi import et
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Aynı klasörden sistem.py'yi import et
 from sistem import DinamikPuanlamaSistemi
 
 app = Flask(__name__)
