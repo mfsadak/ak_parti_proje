@@ -5,7 +5,7 @@ AK Parti Dinamik Puanlama Sistemi
 10'luk Önem Katsayısı Sistemi ile Esnek Aktivite Değerlendirmesi
 """
 
-import pandas as pd
+# import pandas as pd  # Geçici olarak kapatıldı
 import warnings
 import os
 import json

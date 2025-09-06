@@ -7,7 +7,7 @@ Flask API ile Web Uyumlu Backend
 
 import os
 import json
-import pandas as pd
+# import pandas as pd  # Geçici olarak kapatıldı
 from flask import Flask, request, jsonify, render_template, send_file, session
 from werkzeug.utils import secure_filename
 from datetime import datetime
